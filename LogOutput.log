@@ -10,48 +10,28 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 44 plugins to load
+[Info   :   BepInEx] 45 plugins to load
 [Warning:   BepInEx] Plugin [Replacable Boombox MOD 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [BetterSpec 1.0.7] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [BoomBoxOverhaul 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [ControlCompany 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [Custom Boombox Music 1.4.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [DiscountAlert 1.0.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
-[Warning:   BepInEx] Plugin [Late Company 1.0.4] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [Suit Saver 1.1.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [SCP_173 1.3.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [LethalConfig 1.3.4]
+[Info   :ainavt.lc.lethalconfig] Finished loading assets.
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Step Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Bool Checkbox"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Enum Dropdown"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig.ConfigItems.GenericButtonConfigItem"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Input"
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
 [Info   :   BepInEx] Loading [Quota Rollover 2.1.0]
 [Info   :Quota Rollover] Mod Boxofbiscuits97.QuotraRollover is loaded!
-[Info   :   BepInEx] Loading [Lethal Company API 3.3.1]
-[Warning:Lethal Company API] 
-.____    _________           _____  __________ .___  
-|    |   \_   ___ \         /  _  \ \______   \|   | 
-|    |   /    \  \/        /  /_\  \ |     ___/|   | 
-|    |___\     \____      /    |    \|    |    |   | 
-|_______ \\______  /______\____|__  /|____|    |___| 
-        \/       \//_____/        \/                 
-                                                     
-[Info   :Lethal Company API] LC_API Starting up..
-[Info   :   BepInEx] Loading [Coroner 1.5.3]
-[Info   :   Coroner] Injecting patch into Landmine.SpawnExplosion...
-[Info   :   Coroner] Done.
-[Info   :   Coroner] Plugin Coroner (com.elitemastereric.coroner) is loaded!
-[Info   :   Coroner] Coroner Language Support: en
-[Error  :   Coroner] Coroner Error loading language data: Could not find file "G:\Lethal Company\BepInEx\plugins\Strings_en.xml"
-[Error  :   Coroner]   at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <787acc3c9a4c471ba7d971300105af24>:0 
-  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:0 
-  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int)
-  at System.Xml.XmlDownloadManager.GetStream (System.Uri uri, System.Net.ICredentials credentials, System.Net.IWebProxy proxy, System.Net.Cache.RequestCachePolicy cachePolicy) [0x00018] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlUrlResolver.GetEntity (System.Uri absoluteUri, System.String role, System.Type ofObjectToReturn) [0x00032] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlTextReaderImpl.FinishInitUriString () [0x0004c] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlTextReaderImpl..ctor (System.String uriStr, System.Xml.XmlReaderSettings settings, System.Xml.XmlParserContext context, System.Xml.XmlResolver uriResolver) [0x000c7] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlReaderSettings.CreateReader (System.String inputUri, System.Xml.XmlParserContext inputContext) [0x0003b] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlReader.Create (System.String inputUri, System.Xml.XmlReaderSettings settings, System.Xml.XmlParserContext inputContext) [0x0000a] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.XmlReader.Create (System.String inputUri, System.Xml.XmlReaderSettings settings) [0x00000] in <99be1edf0aaf49b797a5a1f18675668a>:0 
-  at System.Xml.Linq.XDocument.Load (System.String uri, System.Xml.Linq.LoadOptions options) [0x00007] in <866126d0564044359f4fb39a71e0f67b>:0 
-  at System.Xml.Linq.XDocument.Load (System.String uri) [0x00000] in <866126d0564044359f4fb39a71e0f67b>:0 
-  at Coroner.LanguageHandler.LoadLanguageData (System.String languageCode) [0x00017] in <80a59e81c2564592805f30fcb397da76>:0 
-[Info   :   Coroner] Checking for LC_API...
-[Info   :   Coroner] LCAPI is present! LC_API:3.3.1
 [Info   :   BepInEx] Loading [ShipLoot 1.0]
 [Info   :   BepInEx] Loading [RemoteMineDetonation 1.0.0]
 [Info   :RemoteMineDetonation] Plugin RemoteMineDetonation is loaded!
@@ -62,14 +42,16 @@
 [Info   :Cozy Improvements] Plugin Cozy Improvements - com.spycibot.cozyimprovements - 1.0.1 is loaded!
 [Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
 [Info   :Custom Boombox Music] Loading...
-[Info   :Custom Boombox Music] Created directory at G:\Lethal Company\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Created directory at F:\Lethal Company\BepInEx\Custom Songs\Boombox Music
 [Info   :Custom Boombox Music] Initializing config...
 [Info   :Custom Boombox Music] Config initialized!
 [Info   :Custom Boombox Music] Loading Complete!
 [Info   :   BepInEx] Loading [LethalSettings 1.2.2]
 [Info   :   BepInEx] Loading [LbToKg 1.0.0]
-[Info   :   BepInEx] Loading [CritHits 1.0.1]
-[Info   :  CritHits] Plugin CritHits (1.0.1) is loaded!
+[Info   :   BepInEx] Loading [ControlCompany 1.0.1]
+[Info   :ControlCompany.ControlCompany] Loaded ControlCompany. Patching.
+[Info   :ControlCompany.ControlCompany] Completed patching. Initializing control center.
+[Info   :ControlCompany.ControlCompany] Completed initialization.
 [Info   :   BepInEx] Loading [FixRPCLag 1.0.0]
 [Info   : FixRPCLag] Plugin dev.bobbie.fixrpclag is loaded!
 [Info   :   BepInEx] Loading [DiscountAlert 1.0.0.0]
@@ -109,6 +91,106 @@
 [Info   :HoldScanButton] Plugin HoldScanButton has loaded!
 [Info   :   BepInEx] Loading [IntroTweaks 1.2.2]
 [Info   :IntroTweaks] Plugin loaded.
+[Info   :   BepInEx] Loading [ItemDeclutter 0.0.1]
+[Warning:ItemDeclutter] True
+[Info   :ItemDeclutter] Plugin ItemDeclutter is loaded!
+[Info   :   BepInEx] Loading [Lethal Company API 3.3.1]
+[Warning:Lethal Company API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [SpectatorChat 1.0.1]
+[Info   :Kaguya.SpectatorChat] SpectatorChat has loaded.
+[Info   :Kaguya.SpectatorChat] IsPatched: False
+[Info   :Kaguya.SpectatorChat] Processing EnableChat_performed method...
+[Info   :Kaguya.SpectatorChat] Index: 32 Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead found.
+[Info   :Kaguya.SpectatorChat] Got previous IL Code: ldarg.0 NULL [Label4, Label5, Label6].
+[Info   :Kaguya.SpectatorChat] Patching following codes...
+[Info   :Kaguya.SpectatorChat] Index: 30, Code: ldarg.0 NULL [Label4, Label5, Label6]
+[Info   :Kaguya.SpectatorChat] Index: 31, Code: ldfld GameNetcodeStuff.PlayerControllerB HUDManager::localPlayer
+[Info   :Kaguya.SpectatorChat] Index: 32, Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 33, Code: brfalse Label7
+[Info   :Kaguya.SpectatorChat] Index: 34, Code: ret NULL
+[Info   :Kaguya.SpectatorChat] Patched codes:
+[Info   :Kaguya.SpectatorChat] Index: 30, Code: nop NULL [Label4, Label5, Label6]
+[Info   :Kaguya.SpectatorChat] Index: 31, Code: nop GameNetcodeStuff.PlayerControllerB HUDManager::localPlayer
+[Info   :Kaguya.SpectatorChat] Index: 32, Code: nop bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 33, Code: nop Label7
+[Info   :Kaguya.SpectatorChat] Index: 34, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Patch success. No any fatal error were raised.
+[Info   :Kaguya.SpectatorChat] Processing SubmitChat_performed method...
+[Info   :Kaguya.SpectatorChat] Index: 39 Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead found.
+[Info   :Kaguya.SpectatorChat] Got previous IL Code: ldarg.0 NULL.
+[Info   :Kaguya.SpectatorChat] Patching following codes...
+[Info   :Kaguya.SpectatorChat] Index: 37, Code: ldarg.0 NULL
+[Info   :Kaguya.SpectatorChat] Index: 38, Code: ldfld GameNetcodeStuff.PlayerControllerB HUDManager::localPlayer
+[Info   :Kaguya.SpectatorChat] Index: 39, Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 40, Code: brfalse Label8
+[Info   :Kaguya.SpectatorChat] Index: 41, Code: ret NULL
+[Info   :Kaguya.SpectatorChat] Patched codes:
+[Info   :Kaguya.SpectatorChat] Index: 37, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 38, Code: nop GameNetcodeStuff.PlayerControllerB HUDManager::localPlayer
+[Info   :Kaguya.SpectatorChat] Index: 39, Code: nop bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 40, Code: nop Label8
+[Info   :Kaguya.SpectatorChat] Index: 41, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Patch success. No any fatal error were raised.
+[Info   :Kaguya.SpectatorChat] Processing KillPlayer method...
+[Info   :Kaguya.SpectatorChat] Index: 150 Code: callvirt void HUDManager::HideHUD(bool hide) found.
+[Info   :Kaguya.SpectatorChat] Patching following codes...
+[Info   :Kaguya.SpectatorChat] Index: 148, Code: call static HUDManager HUDManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 149, Code: ldc.i4.1 NULL
+[Info   :Kaguya.SpectatorChat] Index: 150, Code: callvirt void HUDManager::HideHUD(bool hide)
+[Info   :Kaguya.SpectatorChat] Patched codes:
+[Info   :Kaguya.SpectatorChat] Index: 148, Code: nop static HUDManager HUDManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 149, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 150, Code: nop void HUDManager::HideHUD(bool hide)
+[Info   :Kaguya.SpectatorChat] Patch success. No any fatal error were raised.
+[Info   :Kaguya.SpectatorChat] Processing AddPlayerChatMessageClientRpc method...
+[Info   :Kaguya.SpectatorChat] Index: 79 Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead found.
+[Info   :Kaguya.SpectatorChat] Got previous IL Code: nop NULL [Label8, Label9].
+[Info   :Kaguya.SpectatorChat] Patching following codes...
+[Info   :Kaguya.SpectatorChat] Index: 70, Code: nop NULL [Label8, Label9]
+[Info   :Kaguya.SpectatorChat] Index: 71, Code: ldarg.0 NULL
+[Info   :Kaguya.SpectatorChat] Index: 72, Code: ldfld StartOfRound HUDManager::playersManager
+[Info   :Kaguya.SpectatorChat] Index: 73, Code: ldfld GameNetcodeStuff.PlayerControllerB[] StartOfRound::allPlayerScripts
+[Info   :Kaguya.SpectatorChat] Index: 74, Code: ldarg.2 NULL
+[Info   :Kaguya.SpectatorChat] Index: 75, Code: ldelem.ref NULL
+[Info   :Kaguya.SpectatorChat] Index: 76, Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 77, Code: call static GameNetworkManager GameNetworkManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 78, Code: ldfld GameNetcodeStuff.PlayerControllerB GameNetworkManager::localPlayerController
+[Info   :Kaguya.SpectatorChat] Index: 79, Code: ldfld bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 80, Code: beq Label10
+[Info   :Kaguya.SpectatorChat] Index: 81, Code: ret NULL
+[Info   :Kaguya.SpectatorChat] Patched codes:
+[Info   :Kaguya.SpectatorChat] Index: 70, Code: nop NULL [Label8, Label9]
+[Info   :Kaguya.SpectatorChat] Index: 71, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 72, Code: nop StartOfRound HUDManager::playersManager
+[Info   :Kaguya.SpectatorChat] Index: 73, Code: nop GameNetcodeStuff.PlayerControllerB[] StartOfRound::allPlayerScripts
+[Info   :Kaguya.SpectatorChat] Index: 74, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 75, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 76, Code: nop bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 77, Code: nop static GameNetworkManager GameNetworkManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 78, Code: nop GameNetcodeStuff.PlayerControllerB GameNetworkManager::localPlayerController
+[Info   :Kaguya.SpectatorChat] Index: 79, Code: nop bool GameNetcodeStuff.PlayerControllerB::isPlayerDead
+[Info   :Kaguya.SpectatorChat] Index: 80, Code: nop Label10
+[Info   :Kaguya.SpectatorChat] Index: 81, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Patch success. No any fatal error were raised.
+[Info   :Kaguya.SpectatorChat] Processing KillPlayer method...
+[Info   :Kaguya.SpectatorChat] Index: 150 Code: callvirt void HUDManager::HideHUD(bool hide) found.
+[Info   :Kaguya.SpectatorChat] Patching following codes...
+[Info   :Kaguya.SpectatorChat] Index: 148, Code: call static HUDManager HUDManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 149, Code: ldc.i4.1 NULL
+[Info   :Kaguya.SpectatorChat] Index: 150, Code: callvirt void HUDManager::HideHUD(bool hide)
+[Info   :Kaguya.SpectatorChat] Patched codes:
+[Info   :Kaguya.SpectatorChat] Index: 148, Code: nop static HUDManager HUDManager::get_Instance()
+[Info   :Kaguya.SpectatorChat] Index: 149, Code: nop NULL
+[Info   :Kaguya.SpectatorChat] Index: 150, Code: nop void HUDManager::HideHUD(bool hide)
+[Info   :Kaguya.SpectatorChat] Patch success. No any fatal error were raised.
 [Info   :   BepInEx] Loading [LethalAPI.TerminalCommands 1.1.0]
 [Info   :LethalAPI.TerminalCommands] LethalAPI.TerminalCommands is loading...
 [Info   :LethalAPI.TerminalCommands] Installing patches
@@ -121,7 +203,7 @@
 [Info   : Elads HUD] Plugin Elad's HUD is loaded!
 [Info   :   BepInEx] Loading [MoreCompany 1.7.1]
 [Info   :MoreCompany] Loading MoreCompany...
-[Info   :MoreCompany] Checking: G:\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Checking: F:\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
 [Info   :MoreCompany] Loaded MoreCompany FULLY
 [Info   :MoreCompany] Read settings and cosmetics
 [Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
@@ -172,8 +254,6 @@
 [Info   :MoreCompany] Loaded cosmetic: jombi.whitekatana from bundle
 [Info   :   BepInEx] Loading [MetalRecharging 1.0.0]
 [Info   :MetalRecharging] Plugin MetalRecharging is loaded!
-[Info   :   Coroner] Injecting patch into Landmine.SpawnExplosion...
-[Info   :   Coroner] Done.
 [Info   :   BepInEx] Loading [MoreHead 1.2.1]
 [Info   :  MoreHead] MoreHead OK
 [Info   :  MoreHead] MoreHead Asset OK
@@ -204,6 +284,15 @@
 [Info   :PersistentPurchases] Plugin PersistentPurchases is loaded!
 [Info   :   BepInEx] Loading [Replacable Boombox MOD 1.0.0]
 [Info   :Poseidon.affordableBoombox] The boombox is now affordable!
+[Info   :   BepInEx] Loading [EnhancedSpectator 1.0.0]
+[Info   :EnhancedSpectator] Initializing plugin: EnhancedSpectator v1.0.0 by PXC
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Night Vision/Intensity"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Night Vision/Allowed"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Night Vision/Keybind"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Flashlight/Allowed"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Flashlight/Keybind"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Clock/Allowed"
+[Info   :ainavt.lc.lethalconfig] Registered config "EnhancedSpectator/Clock/Rasied Clock Support"
 [Info   :   BepInEx] Loading [SCP_173 1.3.1]
 [Info   :   SCP_173] Successfully loaded assets.
 [Info   :   SCP_173] Plugin raydenoir.SCP_173 is loaded!
@@ -211,42 +300,3 @@
 [Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.3!
 [Info   :Helmet_Cameras] --------Helmet camera patch done.---------
 [Info   :   BepInEx] Loading [CompatibilityChecker 1.1.6]
-[Info   :CompatibilityChecker] Plugin Ryokune.CompatibilityChecker is loaded!
-[Info   :CompatibilityChecker] Modded servers with CompatibilityChecker will now notify you what mods are needed.
-[Info   :   BepInEx] Loading [LandminesForAll 1.0.1]
-[Info   :LandminesForAll] Plugin sakura.lc.landminesforall is loaded!
-[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
-[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
-[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
-[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
-[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
-[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
-[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
-[Info   :suskitech.LCAlwaysHearActiveWalkie] 
-[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
-[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
-[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
-[Info   :   BepInEx] Loading [ChatCommands 1.1.3]
-[Info   :toemmsen.ChatCommands] ChatCommands loaded
-[Warning:toemmsen.ChatCommands] 
-  ______                                                                                                       
- /_  __/  ____   ___    ____ ___    ____ ___    _____  ___    ____    _____                                    
-  / /    / __ \ / _ \  / __ `__ \  / __ `__ \  / ___/ / _ \  / __ \  / ___/                                    
- / /    / /_/ //  __/ / / / / / / / / / / / / (__  ) /  __/ / / / / (__  )                                     
-/_/_____\____/_\___/ /_/ /_/_/_/ /_/ /_/ /_/_/____/  \___/ /_/ /_/ /____/                            __        
-  / ____/   / /_   ____ _  / /_         / ____/  ____    ____ ___    ____ ___   ____ _   ____   ____/ /   _____
- / /       / __ \ / __ `/ / __/        / /      / __ \  / __ `__ \  / __ `__ \ / __ `/  / __ \ / __  /   / ___/
-/ /___    / / / // /_/ / / /_         / /___   / /_/ / / / / / / / / / / / / // /_/ /  / / / // /_/ /   (__  ) 
-\____/   /_/ /_/ \__,_/  \__/         \____/   \____/ /_/ /_/ /_/ /_/ /_/ /_/ \__,_/  /_/ /_/ \__,_/   /____/  
-
-[Info   :   BepInEx] Loading [Late Company 1.0.4]
-[Info   :Late Company] Late Company loaded!
-[Info   :   BepInEx] Loading [Terminal Extras 1.0.1]
-[Info   :   BepInEx] Loading [More Suits 1.3.3]
-[Info   :More Suits] Plugin More Suits is loaded!
-[Info   :   BepInEx] Loading [BetterSpec 1.0.7]
-[Info   :zg.BetterSpec] BetterSpec Enabled
-[Info   :zg.BetterSpec] Make sure to review BetterSpec
-[Message:   BepInEx] Chainloader startup complete
-[Info   :Lethal Company API] LC_API Started!
-[Error  :CompatibilityChecker] Failed to initialize Thunderstore packages. Error: The request was aborted: The request was canceled.
