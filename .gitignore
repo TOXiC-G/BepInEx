@@ -3,3 +3,4 @@ LogOutput.log
 cache/chainloader_typeloader.dat
 cache/harmony_interop_cache.dat
 LogOutput.log
+plugins/ControlCompany.dll
