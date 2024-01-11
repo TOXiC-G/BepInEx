@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 45 plugins to load
+[Info   :   BepInEx] 44 plugins to load
 [Warning:   BepInEx] Plugin [Replacable Boombox MOD 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [BoomBoxOverhaul 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
 [Warning:   BepInEx] Plugin [ControlCompany 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
@@ -42,7 +42,7 @@
 [Info   :Cozy Improvements] Plugin Cozy Improvements - com.spycibot.cozyimprovements - 1.0.1 is loaded!
 [Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
 [Info   :Custom Boombox Music] Loading...
-[Info   :Custom Boombox Music] Created directory at F:\Lethal Company\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Created directory at C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music
 [Info   :Custom Boombox Music] Initializing config...
 [Info   :Custom Boombox Music] Config initialized!
 [Info   :Custom Boombox Music] Loading Complete!
@@ -91,9 +91,6 @@
 [Info   :HoldScanButton] Plugin HoldScanButton has loaded!
 [Info   :   BepInEx] Loading [IntroTweaks 1.2.2]
 [Info   :IntroTweaks] Plugin loaded.
-[Info   :   BepInEx] Loading [ItemDeclutter 0.0.1]
-[Warning:ItemDeclutter] True
-[Info   :ItemDeclutter] Plugin ItemDeclutter is loaded!
 [Info   :   BepInEx] Loading [Lethal Company API 3.3.1]
 [Warning:Lethal Company API] 
 .____    _________           _____  __________ .___  
@@ -203,7 +200,7 @@
 [Info   : Elads HUD] Plugin Elad's HUD is loaded!
 [Info   :   BepInEx] Loading [MoreCompany 1.7.1]
 [Info   :MoreCompany] Loading MoreCompany...
-[Info   :MoreCompany] Checking: F:\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Checking: C:\Users\volta\Downloads\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
 [Info   :MoreCompany] Loaded MoreCompany FULLY
 [Info   :MoreCompany] Read settings and cosmetics
 [Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
@@ -300,3 +297,396 @@
 [Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.3!
 [Info   :Helmet_Cameras] --------Helmet camera patch done.---------
 [Info   :   BepInEx] Loading [CompatibilityChecker 1.1.6]
+[Info   :CompatibilityChecker] Plugin Ryokune.CompatibilityChecker is loaded!
+[Info   :CompatibilityChecker] Modded servers with CompatibilityChecker will now notify you what mods are needed.
+[Info   :   BepInEx] Loading [LandminesForAll 1.0.1]
+[Info   :LandminesForAll] Plugin sakura.lc.landminesforall is loaded!
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :suskitech.LCAlwaysHearActiveWalkie] 
+[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
+[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
+[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
+[Info   :   BepInEx] Loading [ChatCommands 1.1.3]
+[Info   :toemmsen.ChatCommands] ChatCommands loaded
+[Warning:toemmsen.ChatCommands] 
+  ______                                                                                                       
+ /_  __/  ____   ___    ____ ___    ____ ___    _____  ___    ____    _____                                    
+  / /    / __ \ / _ \  / __ `__ \  / __ `__ \  / ___/ / _ \  / __ \  / ___/                                    
+ / /    / /_/ //  __/ / / / / / / / / / / / / (__  ) /  __/ / / / / (__  )                                     
+/_/_____\____/_\___/ /_/ /_/_/_/ /_/ /_/ /_/_/____/  \___/ /_/ /_/ /____/                            __        
+  / ____/   / /_   ____ _  / /_         / ____/  ____    ____ ___    ____ ___   ____ _   ____   ____/ /   _____
+ / /       / __ \ / __ `/ / __/        / /      / __ \  / __ `__ \  / __ `__ \ / __ `/  / __ \ / __  /   / ___/
+/ /___    / / / // /_/ / / /_         / /___   / /_/ / / / / / / / / / / / / // /_/ /  / / / // /_/ /   (__  ) 
+\____/   /_/ /_/ \__,_/  \__/         \____/   \____/ /_/ /_/ /_/ /_/ /_/ /_/ \__,_/  /_/ /_/ \__,_/   /____/  
+
+[Info   :   BepInEx] Loading [Terminal Extras 1.0.1]
+[Info   :   BepInEx] Loading [More Suits 1.3.3]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Lethal Company API] LC_API Started!
+[Info   :CompatibilityChecker] ThunderstoreAPI Initialized! Got packages: 15673
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :ainavt.lc.lethalconfig] 43 mods loaded: ainavt.lc.lethalconfig;Boxofbiscuits97.QuotraRollover;com.github.tinyhoot.ShipLoot;com.jacksonb-cs.RemoteMineDetonation;com.rune580.LethalCompanyInputUtils;com.spycibot.cozyimprovements;com.steven.lethalcompany.boomboxmusic;com.willis.lc.lethalsettings;com.zduniusz.lethalcompany.lbtokg;ControlCompany.ControlCompany;dev.bobbie.fixrpclag;discount.alert;FlipMods.BetterStamina;FlipMods.FasterItemDropship;FlipMods.ReservedItemSlotCore;FlipMods.ReservedFlashlightSlot;FlipMods.ReservedWalkieSlot;FlipMods.TooManyEmotes;Henrehs.BoomBoxOverhaul;Hexnet.lethalcompany.suitsaver;HoldScanButton;io.github.IntroTweaks;LC_API;Kaguya.SpectatorChat;LethalAPI.TerminalCommands;LethalPosters;Linkoid.Dissonance.LagFix;me.eladnlg.customhud;me.swipez.melonloader.morecompany;MetalRecharging;Mhz.MoreHead;monke.lc.jumpdelay;PersistentPurchases;Poseidon.affordableBoombox;PXC.EnhancedSpectator;raydenoir.SCP_173;RickArg.lethalcompany.helmetcameras;Ryokune.CompatibilityChecker;sakura.lc.landminesforall;suskitech.LCAlwaysHearActiveWalkie;toemmsen.ChatCommands;twig.terminalextras;x753.More_Suits
+[Info   :ainavt.lc.lethalconfig] Generated 14 mod entries.
+[Info   :ainavt.lc.lethalconfig] Generated 86 configs, of which 71 were missing and registered.
+[Info   :CompatibilityChecker] [ainavt.lc.lethalconfig] Found package: LethalConfig[1.3.4]
+		DATA:
+		--NAME: Bobbie-LethalRebinding
+		--LINK: https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding/
+[Info   :CompatibilityChecker] [Boxofbiscuits97.QuotraRollover] Found package: Quota Rollover[2.1.0]
+		DATA:
+		--NAME: P0pMan20-CreditRollover
+		--LINK: https://thunderstore.io/c/lethal-company/p/P0pMan20/CreditRollover/
+[Info   :CompatibilityChecker] [com.github.tinyhoot.ShipLoot] Found package: ShipLoot[1.0]
+		DATA:
+		--NAME: tinyhoot-ShipLoot
+		--LINK: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+[Info   :CompatibilityChecker] [com.jacksonb-cs.RemoteMineDetonation] Found package: RemoteMineDetonation[1.0.0]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [com.rune580.LethalCompanyInputUtils] Found package: Lethal Company Input Utils[0.4.3]
+		DATA:
+		--NAME: TeamTinyAdmin-Lethal_Company_Tiny_Admin
+		--LINK: https://thunderstore.io/c/lethal-company/p/TeamTinyAdmin/Lethal_Company_Tiny_Admin/
+[Info   :CompatibilityChecker] [com.spycibot.cozyimprovements] Found package: Cozy Improvements[1.0.1]
+		DATA:
+		--NAME: MakaPelli-MP
+		--LINK: https://thunderstore.io/c/lethal-company/p/MakaPelli/MP/
+[Info   :CompatibilityChecker] [com.steven.lethalcompany.boomboxmusic] Found package: Custom Boombox Music[1.4.0]
+		DATA:
+		--NAME: Notoromus-NotoBoomboxMusic
+		--LINK: https://thunderstore.io/c/lethal-company/p/Notoromus/NotoBoomboxMusic/
+[Info   :CompatibilityChecker] [com.willis.lc.lethalsettings] Found package: LethalSettings[1.2.2]
+		DATA:
+		--NAME: Bobbie-LethalRebinding
+		--LINK: https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding/
+[Info   :CompatibilityChecker] [com.zduniusz.lethalcompany.lbtokg] Found package: LbToKg[1.0.0]
+		DATA:
+		--NAME: Zduniusz-LBtoKG
+		--LINK: https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG/
+[Info   :CompatibilityChecker] [ControlCompany.ControlCompany] Found package: ControlCompany[1.0.1]
+		DATA:
+		--NAME: ControlCompany-ControlCompany
+		--LINK: https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/
+[Info   :CompatibilityChecker] [dev.bobbie.fixrpclag] Found package: FixRPCLag[1.0.0]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [discount.alert] Found package: DiscountAlert[1.0.0.0]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [FlipMods.BetterStamina] Found package: BetterStamina[1.3.2]
+		DATA:
+		--NAME: OpJosMods-BetterStamina
+		--LINK: https://thunderstore.io/c/lethal-company/p/OpJosMods/BetterStamina/
+[Info   :CompatibilityChecker] [FlipMods.FasterItemDropship] Found package: FasterItemDropship[1.2.0]
+		DATA:
+		--NAME: FlipMods-FasterItemDropship
+		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/
+[Info   :CompatibilityChecker] [FlipMods.ReservedItemSlotCore] Found package: ReservedItemSlotCore[1.7.3]
+		DATA:
+		--NAME: FlipMods-ReservedItemSlotCore
+		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
+[Info   :CompatibilityChecker] [FlipMods.ReservedFlashlightSlot] Found package: ReservedFlashlightSlot[1.5.3]
+		DATA:
+		--NAME: FlipMods-ReservedFlashlightSlot
+		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+[Info   :CompatibilityChecker] [FlipMods.ReservedWalkieSlot] Found package: ReservedWalkieSlot[1.5.1]
+		DATA:
+		--NAME: FlipMods-ReservedWalkieSlot
+		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
+[Info   :CompatibilityChecker] [FlipMods.TooManyEmotes] Found package: TooManyEmotes[1.5.10]
+		DATA:
+		--NAME: FlipMods-TooManyEmotes
+		--LINK: https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+[Info   :CompatibilityChecker] [Henrehs.BoomBoxOverhaul] Found package: BoomBoxOverhaul[1.0.0]
+		DATA:
+		--NAME: BombSquad-Bombgo_Overhaul
+		--LINK: https://thunderstore.io/c/lethal-company/p/BombSquad/Bombgo_Overhaul/
+[Info   :CompatibilityChecker] [Hexnet.lethalcompany.suitsaver] Found package: Suit Saver[1.1.2]
+		DATA:
+		--NAME: RockWalrus-suits
+		--LINK: https://thunderstore.io/c/lethal-company/p/RockWalrus/suits/
+[Info   :CompatibilityChecker] [HoldScanButton] Found package: HoldScanButton[1.1.1]
+		DATA:
+		--NAME: FutureSavior-Hold_Scan_Button
+		--LINK: https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/
+[Info   :CompatibilityChecker] [io.github.IntroTweaks] Found package: IntroTweaks[1.2.2]
+		DATA:
+		--NAME: Straky-HotbarTweaks
+		--LINK: https://thunderstore.io/c/lethal-company/p/Straky/HotbarTweaks/
+[Info   :CompatibilityChecker] [LC_API] Found package: Lethal Company API[3.3.1]
+		DATA:
+		--NAME: Vyrxs-NonLethalCompany
+		--LINK: https://thunderstore.io/c/lethal-company/p/Vyrxs/NonLethalCompany/
+[Info   :CompatibilityChecker] [Kaguya.SpectatorChat] Found package: SpectatorChat[1.0.1]
+		DATA:
+		--NAME: Kaguya-SpectatorChat
+		--LINK: https://thunderstore.io/c/lethal-company/p/Kaguya/SpectatorChat/
+[Info   :CompatibilityChecker] [LethalAPI.TerminalCommands] Found package: LethalAPI.TerminalCommands[1.1.0]
+		DATA:
+		--NAME: NavarroTech-MoreTerminalCommands
+		--LINK: https://thunderstore.io/c/lethal-company/p/NavarroTech/MoreTerminalCommands/
+[Info   :CompatibilityChecker] [LethalPosters] Found package: LethalPosters[1.0.0]
+		DATA:
+		--NAME: FrikandelbroodjeCommunity-FrikanPosters
+		--LINK: https://thunderstore.io/c/lethal-company/p/FrikandelbroodjeCommunity/FrikanPosters/
+[Info   :CompatibilityChecker] [Linkoid.Dissonance.LagFix] Found package: Dissonance Lag Fix[1.0]
+		DATA:
+		--NAME: linkoid-DissonanceLagFix
+		--LINK: https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/
+[Info   :CompatibilityChecker] [me.eladnlg.customhud] Found package: Elads HUD[1.1.0]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [me.swipez.melonloader.morecompany] Found package: MoreCompany[1.7.1]
+		DATA:
+		--NAME: 2018-Movement_Company
+		--LINK: https://thunderstore.io/c/lethal-company/p/2018/Movement_Company/
+[Info   :CompatibilityChecker] [MetalRecharging] Found package: MetalRecharging[1.0.0]
+		DATA:
+		--NAME: Bobbie-MetalRecharging
+		--LINK: https://thunderstore.io/c/lethal-company/p/Bobbie/MetalRecharging/
+[Info   :CompatibilityChecker] [Mhz.MoreHead] Found package: MoreHead[1.2.1]
+		DATA:
+		--NAME: Mhz-MoreHead
+		--LINK: https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/
+[Info   :CompatibilityChecker] [monke.lc.jumpdelay] Found package: Jump Delay Patch[0.0.0.1]
+		DATA:
+		--NAME: monkes_mods-JumpDelayPatch
+		--LINK: https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/
+[Info   :CompatibilityChecker] [PersistentPurchases] Found package: PersistentPurchases[1.1.1]
+		DATA:
+		--NAME: TheBeeTeam-PersistentPurchases
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases/
+[Info   :CompatibilityChecker] [Poseidon.affordableBoombox] Found package: Replacable Boombox MOD[1.0.0]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [PXC.EnhancedSpectator] Found package: EnhancedSpectator[1.0.0]
+		DATA:
+		--NAME: PXC-EnhancedSpectator
+		--LINK: https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/
+[Info   :CompatibilityChecker] [raydenoir.SCP_173] Found package: SCP_173[1.3.1]
+		DATA:
+		--NAME: Frostty-SCP173Coilhead
+		--LINK: https://thunderstore.io/c/lethal-company/p/Frostty/SCP173Coilhead/
+[Info   :CompatibilityChecker] [RickArg.lethalcompany.helmetcameras] Found package: Helmet_Cameras[2.1.3]
+		DATA:
+		--NAME: RickArg-Helmet_Cameras
+		--LINK: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
+[Info   :CompatibilityChecker] [Ryokune.CompatibilityChecker] Found package: CompatibilityChecker[1.1.6]
+		DATA:
+		--NAME: Ryokune-CompatibilityChecker
+		--LINK: https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/
+[Info   :CompatibilityChecker] [sakura.lc.landminesforall] Found package: LandminesForAll[1.0.1]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [suskitech.LCAlwaysHearActiveWalkie] Found package: LC Always Hear Active Walkies[1.4.4]
+		DATA:
+		--NAME: TheHorror-___
+		--LINK: https://thunderstore.io/c/lethal-company/p/TheHorror/___/
+[Info   :CompatibilityChecker] [toemmsen.ChatCommands] Found package: ChatCommands[1.1.3]
+		DATA:
+		--NAME: Chai_Dynasty-Chai_Company
+		--LINK: https://thunderstore.io/c/lethal-company/p/Chai_Dynasty/Chai_Company/
+[Info   :CompatibilityChecker] [twig.terminalextras] Found package: Terminal Extras[1.0.1]
+		DATA:
+		--NAME: malco-Terminal_TP
+		--LINK: https://thunderstore.io/c/lethal-company/p/malco/Terminal_TP/
+[Info   :CompatibilityChecker] [x753.More_Suits] Found package: More Suits[1.3.3]
+		DATA:
+		--NAME: AlexEaston-MoreSuits
+		--LINK: https://thunderstore.io/c/lethal-company/p/AlexEaston/MoreSuits/
+[Warning:CompatibilityChecker] 
+		--Mod ShipLoot [com.github.tinyhoot.ShipLoot] v1.0 does not equal the latest release!
+		--Latest version: v1.0.0
+		--Link: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+		--Full mod name: tinyhoot-ShipLoot
+		--(If this is wrong, please ignore this.)
+
+		--Mod Cozy Improvements [com.spycibot.cozyimprovements] v1.0.1 does not equal the latest release!
+		--Latest version: v1.1.0
+		--Link: https://thunderstore.io/c/lethal-company/p/MakaPelli/MP/
+		--Full mod name: MakaPelli-MP
+		--(If this is wrong, please ignore this.)
+
+		--Mod ControlCompany [ControlCompany.ControlCompany] v1.0.1 does not equal the latest release!
+		--Latest version: v1.0.2
+		--Link: https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/
+		--Full mod name: ControlCompany-ControlCompany
+		--(If this is wrong, please ignore this.)
+
+		--Mod FasterItemDropship [FlipMods.FasterItemDropship] v1.2.0 does not equal the latest release!
+		--Latest version: v1.2.1
+		--Link: https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/
+		--Full mod name: FlipMods-FasterItemDropship
+		--(If this is wrong, please ignore this.)
+
+		--Mod ReservedItemSlotCore [FlipMods.ReservedItemSlotCore] v1.7.3 does not equal the latest release!
+		--Latest version: v1.8.6
+		--Link: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
+		--Full mod name: FlipMods-ReservedItemSlotCore
+		--(If this is wrong, please ignore this.)
+
+		--Mod ReservedFlashlightSlot [FlipMods.ReservedFlashlightSlot] v1.5.3 does not equal the latest release!
+		--Latest version: v1.5.8
+		--Link: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+		--Full mod name: FlipMods-ReservedFlashlightSlot
+		--(If this is wrong, please ignore this.)
+
+		--Mod ReservedWalkieSlot [FlipMods.ReservedWalkieSlot] v1.5.1 does not equal the latest release!
+		--Latest version: v1.5.4
+		--Link: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/
+		--Full mod name: FlipMods-ReservedWalkieSlot
+		--(If this is wrong, please ignore this.)
+
+		--Mod Suit Saver [Hexnet.lethalcompany.suitsaver] v1.1.2 does not equal the latest release!
+		--Latest version: v1.2.0
+		--Link: https://thunderstore.io/c/lethal-company/p/RockWalrus/suits/
+		--Full mod name: RockWalrus-suits
+		--(If this is wrong, please ignore this.)
+
+		--Mod SpectatorChat [Kaguya.SpectatorChat] v1.0.1 does not equal the latest release!
+		--Latest version: v1.0.3
+		--Link: https://thunderstore.io/c/lethal-company/p/Kaguya/SpectatorChat/
+		--Full mod name: Kaguya-SpectatorChat
+		--(If this is wrong, please ignore this.)
+
+		--Mod LethalPosters [LethalPosters] v1.0.0 does not equal the latest release!
+		--Latest version: v1.0.2
+		--Link: https://thunderstore.io/c/lethal-company/p/FrikandelbroodjeCommunity/FrikanPosters/
+		--Full mod name: FrikandelbroodjeCommunity-FrikanPosters
+		--(If this is wrong, please ignore this.)
+
+		--Mod Dissonance Lag Fix [Linkoid.Dissonance.LagFix] v1.0 does not equal the latest release!
+		--Latest version: v1.0.0
+		--Link: https://thunderstore.io/c/lethal-company/p/linkoid/DissonanceLagFix/
+		--Full mod name: linkoid-DissonanceLagFix
+		--(If this is wrong, please ignore this.)
+
+		--Mod MoreHead [Mhz.MoreHead] v1.2.1 does not equal the latest release!
+		--Latest version: v1.2.3
+		--Link: https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/
+		--Full mod name: Mhz-MoreHead
+		--(If this is wrong, please ignore this.)
+
+		--Mod Jump Delay Patch [monke.lc.jumpdelay] v0.0.0.1 does not equal the latest release!
+		--Latest version: v1.0.1
+		--Link: https://thunderstore.io/c/lethal-company/p/monkes_mods/JumpDelayPatch/
+		--Full mod name: monkes_mods-JumpDelayPatch
+		--(If this is wrong, please ignore this.)
+
+		--Mod PersistentPurchases [PersistentPurchases] v1.1.1 does not equal the latest release!
+		--Latest version: v1.2.0
+		--Link: https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases/
+		--Full mod name: TheBeeTeam-PersistentPurchases
+		--(If this is wrong, please ignore this.)
+
+		--Mod EnhancedSpectator [PXC.EnhancedSpectator] v1.0.0 does not equal the latest release!
+		--Latest version: v1.0.2
+		--Link: https://thunderstore.io/c/lethal-company/p/PXC/EnhancedSpectator/
+		--Full mod name: PXC-EnhancedSpectator
+		--(If this is wrong, please ignore this.)
+
+		--Mod Helmet_Cameras [RickArg.lethalcompany.helmetcameras] v2.1.3 does not equal the latest release!
+		--Latest version: v2.1.5
+		--Link: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
+		--Full mod name: RickArg-Helmet_Cameras
+		--(If this is wrong, please ignore this.)
+
+		--Mod More Suits [x753.More_Suits] v1.3.3 does not equal the latest release!
+		--Latest version: v2.0.1
+		--Link: https://thunderstore.io/c/lethal-company/p/AlexEaston/MoreSuits/
+		--Full mod name: AlexEaston-MoreSuits
+		--(If this is wrong, please ignore this.)
+
+[Warning:CompatibilityChecker] Server-sided Mod List Count: 8
+[Message:Lethal Company API] server pre-setup success
+[Info   :CompatibilityChecker] Set  mods to: Quota Rollover[2.1.0]/@/ControlCompany[1.0.1]/@/FasterItemDropship[1.2.0]/@/ReservedItemSlotCore[1.7.3]/@/SpectatorChat[1.0.1]/@/MetalRecharging[1.0.0]/@/PersistentPurchases[1.1.1]/@/CompatibilityChecker[1.1.6]
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic1.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic2.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic4.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic5.mp3!
+[Info   :Kaguya.SpectatorChat] HUDElement Content: Inventory (UnityEngine.CanvasGroup)
+[Info   :Kaguya.SpectatorChat] HUDElement Content: BottomLeftCorner (UnityEngine.CanvasGroup)
+[Info   :Kaguya.SpectatorChat] HUDElement Content: TopLeftCorner (UnityEngine.CanvasGroup)
+[Info   :Kaguya.SpectatorChat] HUDElement Content: TopRightCorner (UnityEngine.CanvasGroup)
+[Info   :Kaguya.SpectatorChat] HUDElement Content: BottomRightCorner (UnityEngine.CanvasGroup)
+[Info   :Kaguya.SpectatorChat] HUDElement Content: ProfitQuota (UnityEngine.CanvasGroup)
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :PersistentPurchases] Registering 24 unlockables
+[Debug  :PersistentPurchases] Orange suit
+[Debug  :PersistentPurchases] Green suit
+[Debug  :PersistentPurchases] Hazard suit
+[Debug  :PersistentPurchases] Pajama suit
+[Debug  :PersistentPurchases] Cozy lights
+[Debug  :PersistentPurchases] Teleporter
+[Debug  :PersistentPurchases] Television
+[Debug  :PersistentPurchases] Cupboard
+[Debug  :PersistentPurchases] File Cabinet
+[Debug  :PersistentPurchases] Toilet
+[Debug  :PersistentPurchases] Shower
+[Debug  :PersistentPurchases] Light switch
+[Debug  :PersistentPurchases] Record player
+[Debug  :PersistentPurchases] Table
+[Debug  :PersistentPurchases] Romantic table
+[Debug  :PersistentPurchases] Bunkbeds
+[Debug  :PersistentPurchases] Terminal
+[Debug  :PersistentPurchases] Signal translator
+[Debug  :PersistentPurchases] Loud horn
+[Debug  :PersistentPurchases] Inverse Teleporter
+[Debug  :PersistentPurchases] JackOLantern
+[Debug  :PersistentPurchases] Welcome mat
+[Debug  :PersistentPurchases] Goldfish
+[Debug  :PersistentPurchases] Plushie pajama man
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Info   :toemmsen.ChatCommands] Host Status: True
+[Info   :TooManyEmotes] Loaded 102 unlockable emotes.
+[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Loaded Seed: 947929461
+[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 947929461
+[Info   :LethalPosters] Patching Start in StartOfRound
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with C:\Users\volta\Downloads\Lethal Company\BepInEx\plugins\LethalPosters\posters\69.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with C:\Users\volta\Downloads\Lethal Company\BepInEx\plugins\LethalPosters\tips\2.png
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Default Jump Force: 13
+[Info   :toemmsen.ChatCommands] Chat Message: CAPTAINANIRUDHSUX joined the ship. sent by: 
+[Info   :toemmsen.ChatCommands] Chat Message: CAPTAINANIRUDHSUX joined the ship. sent by: 
+[Info   :TooManyEmotes] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes] Subscribing to OnPressCustomEmoteKey events
+[Info   :TooManyEmotes] Applied patch for MoreCompany Cosmetics
+[Info   :ReservedItemSlotCore] ReservedItemsStartIndex: 4
+[Info   :ReservedItemSlotCore] Adding 2 Reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Info   :ReservedItemSlotCore] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   :Custom Boombox Music] Loaded C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic1.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic2.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic4.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\volta\Downloads\Lethal Company\BepInEx\Custom Songs\Boombox Music\BoomboxMusic5.mp3
+[Info   :Custom Boombox Music] Applying clips!
+[Info   :Custom Boombox Music] Total Clip Count: 4
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :TooManyEmotes] Saved 102 unlockable emotes.
+[Info   :TooManyEmotes] Saved CurrentEmoteCredits: 100
+[Info   :TooManyEmotes] Saved Seed: 947929461
+[Info   :TooManyEmotes] Unsubscribing from OnPressCustomEmoteKey events.
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
