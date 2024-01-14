@@ -1,0 +1,205 @@
+ManifestFileVersion: 0
+CRC: 1928124264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 098ce2a14f9eb74064f929b69fcce01f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9717d677ffa0026722e9f72753731a83
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 098ce2a14f9eb74064f929b69fcce01f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableOutsideObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+Assets:
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/ultraball.asset
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/pokeball_texture_normal.png
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/cap.fbx
+- Assets/Mods/SilphCoMod/moons/palet town/palettownnavmesh.asset
+- Assets/Mods/SilphCoMod/items/scraps/toothless/toothless.prefab
+- Assets/Mods/SilphCoMod/moons/palet town/textures/3863.png
+- Assets/Mods/SilphCoMod/moons/palet town/materials/terrain.mat
+- Assets/Mods/SilphCoMod/items/scraps/pokedex/pokedex.asset
+- Assets/Mods/SilphCoMod/moons/palet town/textures/fire-red-buildings.png
+- Assets/Mods/SilphCoMod/items/scraps/masterball/masterball.asset
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/pokeball.asset
+- Assets/Mods/SilphCoMod/moons/palet town/materials/new material.mat
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/pokeball fbx.prefab
+- Assets/Mods/SilphCoMod/moons/palet town/1-06. pallet town theme.mp3
+- Assets/Mods/SilphCoMod/silphcomodassetbank.asset
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/pokeball_ultraball_m_normal.png
+- Assets/Mods/SilphCoMod/moons/palet town/textures/colours1.png
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/pokeball fbx.fbx
+- Assets/Mods/SilphCoMod/items/scraps/toothless/driftveilcity.prefab
+- Assets/Mods/SilphCoMod/moons/palet town/models/pallet-town.fbx
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/materials/pokeball_texture_albedo.mat
+- Assets/Mods/SilphCoMod/items/scraps/masterball/master ball.prefab
+- Assets/Mods/SilphCoMod/moons/palet town/palettown.asset
+- Assets/Mods/SilphCoMod/moons/palet town/textures/pokemon_frlg_route01.png
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/pokeball_ultraball_m_basecolor.png
+- Assets/Mods/SilphCoMod/items/scraps/toothless/cas-toothless-dusmic.fbx
+- Assets/Mods/SilphCoMod/items/scraps/toothless/driftveil-city-song.mp3
+- Assets/Mods/SilphCoMod/items/scraps/pokedex/pokedex toy.fbx
+- Assets/Mods/SilphCoMod/moons/palet town/textures/trees.png
+- Assets/Mods/SilphCoMod/moons/palet town/materials/chip_wood_a.mat
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/ultraball.prefab
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/pokeball_ultraball_m_roughness.png
+- Assets/Mods/SilphCoMod/moons/palet town/materials/pokemon_frlg_route01.mat
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/spec2.png
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/masterhat.asset
+- Assets/Mods/SilphCoMod/items/scraps/masterball/master ball.fbx
+- Assets/Mods/SilphCoMod/items/scraps/toothless/toothless.asset
+- Assets/Mods/SilphCoMod/moons/palet town/palettown.prefab
+- Assets/Mods/SilphCoMod/items/scraps/pokedex/pokedex toy.prefab
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/material.mat
+- Assets/Mods/SilphCoMod/moons/palet town/materials/plant.mat
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/diffuse2.png
+- Assets/Mods/SilphCoMod/moons/palet town/textures/chip_wood_a-pa.png
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/pokeball.fbx
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/normalmapfinal.png
+- Assets/Mods/SilphCoMod/moons/palet town/materials/trees.mat
+- Assets/Mods/SilphCoMod/moons/palet town/materials/fire-red-buildings.mat
+- Assets/Mods/SilphCoMod/moons/palet town/materials/3863 1.mat
+- Assets/Mods/SilphCoMod/moons/palet town/textures/titrbhana_4k_albedo.png
+- Assets/Mods/SilphCoMod/moons/palet town/textures/maindoor.png
+- Assets/Mods/SilphCoMod/moons/palet town/textures/chip_wood_b-pa-g.png
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/pokeball_ultraball_m_metallic.png
+- Assets/Mods/SilphCoMod/moons/palet town/models/fence.fbx
+- Assets/Mods/SilphCoMod/items/scraps/ultraball/materials/pokeball_ultraball_m_basecolor.mat
+- Assets/Mods/SilphCoMod/items/scraps/pokehat/cap.prefab
+- Assets/Mods/SilphCoMod/moons/palet town/materials/fr-tree-a.mat
+- Assets/Mods/SilphCoMod/moons/palet town/textures/terrain.png
+- Assets/Mods/SilphCoMod/items/scraps/pokeball/pokeball_texture_albedo.png
+- Assets/Mods/SilphCoMod/modmanifest.asset
+Dependencies:
+- C:/Users/lucas/Documents/LaLagunaMod/LethalSDK_Project/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem
